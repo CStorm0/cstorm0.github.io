@@ -11,36 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Edinburgh, 2021
+	* Thesis: "Structural Investigations of Elemental Metals at Multi-Megabar Pressures Using Toroidal Diamond Anvil Cells"
+* M.Sci. in Physics, Imperial College London, 2016
+	* Masters Dissertation: "Creating an Atomic Potential for use in Molecular Dynamics Simulations Using a Genetic Algorithm"
+* International Baccalaureate, Frankfurt International School, 2012
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Associate, University of Edinburgh, Sep 2021 -- Current
+	* Modelling compressive behaviour of metals and high-pressure phase transitions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant, University of Edinburgh, Sep 2017 -- May 2021
+	* Taught workshops on data analysis, Python, and experiments. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Fraud and Revenue Assurance Analyst, Gamma Telecoms, Jun 2016 -- Aug 2017
+	* Monitored and analysed network traffic for anomalies and fraud. 
+	
+* Quantitative Analyst, SEB Investment Bank, Summer 2015
+* Software Developer, Imperial Colelge London, Summer 2014
+* Earth Observation Intern, European Space Agency, Summer 2012
+* Earth Observation Intern, European Accenture, Summer 2011
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,12 +45,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
