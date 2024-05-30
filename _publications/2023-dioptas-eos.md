@@ -2,7 +2,7 @@
 title: "On the creation of thermal equations of state for use in Dioptas"
 collection: publications
 permalink: /publication/2023-dioptas-eos
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2023-03-18
 venue: 'High Pressure Research'
 paperurl: 'https://doi.org/10.1080/08957959.2023.2187294'

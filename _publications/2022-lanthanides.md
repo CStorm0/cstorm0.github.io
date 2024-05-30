@@ -2,7 +2,7 @@
 title: "New structural systematics in the lanthanide elements at high pressure"
 collection: publications
 permalink: /publication/2022-lanthanides
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2022-09-22
 venue: 'Bulletin of Materials Science'
 paperurl: 'https://doi.org/10.1007/s12034-022-02779-1'

@@ -29,10 +29,26 @@ Work Experience
 	* Monitored and analysed network traffic for anomalies and fraud. 
 	
 * Quantitative Analyst, SEB Investment Bank, Summer 2015
-* Software Developer, Imperial Colelge London, Summer 2014
+* Software Developer, Imperial College London, Summer 2014
 * Earth Observation Intern, European Space Agency, Summer 2012
 * Earth Observation Intern, European Accenture, Summer 2011
   
+Technical Skills
+======
+* Programming
+	* Machine learning
+	* Neural networks (deep, convolutional, and recurrent)
+	* Function optimisation
+* Software and Tool
+	* Python (numpy, scipy, pandas, geopandas, pytorch, tensorflow, sklearn, matplotlib)
+	* SQL, MATLAB, C, Java, VBA
+* Mathematics
+	* Partial differential equations and linear algebra
+	* Statistics and probability theory
+	* Information theory
+* Languages
+	* English, Swedish, and German (Fluent)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
